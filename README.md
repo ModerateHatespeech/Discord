@@ -18,7 +18,7 @@ Required config.json file:
   "api_token": "MODERATE_HATESPEECH_API_TOKEN",
   "bot_token": "DISCORD_BOT_TOKEN",
   "channel_id": "CHANNEL_ID_FOR_REPORTS",
-  "threshold": CONFIDENCE_THRESHOLD
+  "threshold": 0.5
 }
 ```
 
