@@ -14,6 +14,7 @@ Required config.json file:
 ```json
 {
   "api_token": "MODERATE_HATESPEECH_API_TOKEN",
+  "bot_token": "DISCORD_BOT_TOKEN"
 }
 ```
 
