@@ -2,7 +2,7 @@
 Automatically moderate subreddits via API
 
 ## Purpose
-The following python script runs a Discord bot that will auto-report content flagged as "Toxic" by our API to a channel.
+The following python script runs a Discord bot that will auto-report content flagged as "Toxic" by our API to a channel. Follow the instructions below to self-host. Note: only add the self-hosted bot to servers you trust. 
 
 If you're just looking to add the bot to your server, use the following link: [https://discord.com/api/oauth2/authorize?client_id=984268119797276682&permissions=68608&scope=bot](https://discord.com/api/oauth2/authorize?client_id=984268119797276682&permissions=68608&scope=bot)
 
