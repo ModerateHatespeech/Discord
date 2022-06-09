@@ -1,4 +1,4 @@
-# Reddit
+# Discord
 Automatically moderate subreddits via API
 
 ## Purpose
